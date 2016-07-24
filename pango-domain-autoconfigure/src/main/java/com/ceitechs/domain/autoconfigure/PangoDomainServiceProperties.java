@@ -14,7 +14,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class PangoDomainServiceProperties {
 
     /**
-     * Replica sets comma separated hostports.
+     * Replica sets comma separated hostAndports.
      * Ex. host1:port1,host2:port2
      */
     @Getter
