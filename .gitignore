@@ -60,4 +60,3 @@ hs_err_pid*
 /.idea/
 /pango-domain-starter.iml
 /pango-domain-autoconfigure/pango-domain-autoconfigure.iml
-pango-domain-autoconfigure/src/
