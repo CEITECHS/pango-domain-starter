@@ -59,14 +59,14 @@
             <optional>true</optional>
         </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>ceitechs.maven.snapshots</id>
-            <url>https://raw.github.com/CEITECHS/mvn-repo/</url>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-            </snapshots>
-        </repository>
-    </repositories>
+    <!--<repositories>-->
+        <!--<repository>-->
+            <!--<id>ceitechs.maven.snapshots</id>-->
+            <!--<url>https://raw.github.com/CEITECHS/pango-domain-service/mvn-repo/</url>-->
+            <!--<snapshots>-->
+                <!--<enabled>true</enabled>-->
+                <!--<updatePolicy>always</updatePolicy>-->
+            <!--</snapshots>-->
+        <!--</repository>-->
+    <!--</repositories>-->
 </project>
