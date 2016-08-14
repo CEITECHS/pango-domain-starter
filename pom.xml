@@ -82,7 +82,7 @@
     <repositories>
         <repository>
             <id>ceitechs.maven.snapshots</id>
-            <url>https://github.com/CEITECHS/pango-domain-service/tree/mvn-repo</url>
+            <url>https://raw.github.com/CEITECHS/pango-domain-service/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
