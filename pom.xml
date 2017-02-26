@@ -15,7 +15,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <spring.boot.version>1.3.6.RELEASE</spring.boot.version>
+        <spring.boot.version>1.4.2.RELEASE</spring.boot.version>
         <github.global.server>github</github.global.server>
     </properties>
 
